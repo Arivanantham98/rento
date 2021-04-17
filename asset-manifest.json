@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0510c11f.chunk.css",
+    "main.js": "/static/js/main.a3aaae19.chunk.js",
+    "main.js.map": "/static/js/main.a3aaae19.chunk.js.map",
+    "runtime~main.js": "/static/js/runtime~main.402cc814.js",
+    "runtime~main.js.map": "/static/js/runtime~main.402cc814.js.map",
+    "static/css/2.8438ca04.chunk.css": "/static/css/2.8438ca04.chunk.css",
+    "static/js/2.c627fd97.chunk.js": "/static/js/2.c627fd97.chunk.js",
+    "static/js/2.c627fd97.chunk.js.map": "/static/js/2.c627fd97.chunk.js.map",
+    "index.html": "/index.html",
+    "precache-manifest.b6b20fdc504f4b369a7a9a5de46e3f2b.js": "/precache-manifest.b6b20fdc504f4b369a7a9a5de46e3f2b.js",
+    "service-worker.js": "/service-worker.js",
+    "static/css/2.8438ca04.chunk.css.map": "/static/css/2.8438ca04.chunk.css.map",
+    "static/css/main.0510c11f.chunk.css.map": "/static/css/main.0510c11f.chunk.css.map",
+    "static/js/2.c627fd97.chunk.js.LICENSE.txt": "/static/js/2.c627fd97.chunk.js.LICENSE.txt",
+    "static/media/index.scss": "/static/media/slick.f97e3bbf.svg"
+  }
+}
